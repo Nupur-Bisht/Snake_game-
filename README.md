@@ -7,3 +7,5 @@ Gameplay Features
 -> Score increases as the snake grows  
 ->Collision detection for walls and self  
 ->Smooth controls and real-time updates
+
+<img width="525" height="532" alt="image" src="https://github.com/user-attachments/assets/245d064b-0a7b-401a-93b1-5ab728a36d43" />
